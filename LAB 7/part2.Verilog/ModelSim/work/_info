@@ -1,0 +1,170 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/lab7/Design_Files/part2.Verilog/modelSim
+vcount5
+Z0 !s110 1679405711
+!i10b 1
+!s100 ;d]?iNzI`B3WcJ>g64Nbd3
+IWEmm@cIl^_5<7Xnk>C=zf3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dG:/lab7/Design_Files/part2.Verilog/ModelSim
+Z3 w1679237764
+Z4 8../part2.v
+Z5 F../part2.v
+L0 35
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1679405711.000000
+Z8 !s107 ../top.v|../proc.v|../part2.v|../inst_mem.v|
+Z9 !s90 -reportprogress|300|../inst_mem.v|../part2.v|../proc.v|../top.v|
+!i113 1
+Z10 tCvgOpt 0
+vdec3to8
+R0
+!i10b 1
+!s100 jOmeVacLP5_QAR<LgoH8M1
+IFGD9naePMC4JLnkdTZi3I3
+R1
+R2
+Z11 w1679237302
+Z12 8../proc.v
+Z13 F../proc.v
+L0 200
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vinst_mem
+R0
+!i10b 1
+!s100 K7Z^j6FiJUQP1AgV`NAzZ3
+IGRhP8e8;>>ao;n?=nY6[f2
+R1
+R2
+w1678201589
+8../inst_mem.v
+F../inst_mem.v
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpart2
+R0
+!i10b 1
+!s100 Em9Ym@0icOCm;1Wn29VX82
+IIRZU3ik9^5V`bK0>4GkJ@1
+R1
+R2
+R3
+R4
+R5
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vproc
+R0
+!i10b 1
+!s100 cD:O>27g:CDjd5`Vd>H8m3
+I74F3f]mnVj004XHS;Nff41
+R1
+R2
+R11
+R12
+R13
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vregn
+R0
+!i10b 1
+!s100 UBgkdU?CV:TO2DJL@j;WR1
+I7;o5lM[AW>WegdF^:C>R;3
+R1
+R2
+R11
+R12
+R13
+L0 224
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtestbench
+!s110 1679405712
+!i10b 1
+!s100 >@fWgM?703dFl=@DRJjVS0
+IQc@CofND>>aV1WYiefAiz0
+R1
+R2
+w1679240391
+8testbench.v
+Ftestbench.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1679405712.000000
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 1
+R10
+vtop
+R0
+!i10b 1
+!s100 Lema2TB]2R]5GRXDBfR[@2
+ISBd8ZWC6`[V[T3ne]bSJz2
+R1
+R2
+w1678201587
+8../top.v
+F../top.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
